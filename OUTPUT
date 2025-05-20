@@ -1,0 +1,8 @@
+predict("The government has confirmed that aliens have landed on Earth.")
+output:
+  ('Fake', 0.9876)
+
+predict("NASA confirms the successful landing of the Mars Rover.")
+output:
+     ('Real', 0.9342)
+  
